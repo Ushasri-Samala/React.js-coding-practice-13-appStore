@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.each-tab-item {
+  list-style-type: none;
+}
+.button {
+  margin: 20px;
+  border: None;
+  background-color: transparent;
+  color: #7b8794;
+  font-family: 'Bree Serif';
+}
+.active-tab-btn {
+  border-bottom: 2px solid #2563eb;
+  color: #2563eb;
+  font-weight: bold;
+}
